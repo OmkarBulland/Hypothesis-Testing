@@ -1,1 +1,5 @@
+[BuyerRatio (1).csv](https://github.com/OmkarBulland/Hypothesis-Testing/files/10811029/BuyerRatio.1.csv)
+[Costomer+OrderForm (1).csv](https://github.com/OmkarBulland/Hypothesis-Testing/files/10811030/Costomer%2BOrderForm.1.csv)
+[Cutlets (1).csv](https://github.com/OmkarBulland/Hypothesis-Testing/files/10811031/Cutlets.1.csv)
+[LabTAT (1).csv](https://github.com/OmkarBulland/Hypothesis-Testing/files/10811032/LabTAT.1.csv)
 # Hypothesis-Testing[Hypothesis_Testing_Assignment (3).pptx](https://github.com/OmkarBulland/Hypothesis-Testing/files/10715429/Hypothesis_Testing_Assignment.3.pptx)
